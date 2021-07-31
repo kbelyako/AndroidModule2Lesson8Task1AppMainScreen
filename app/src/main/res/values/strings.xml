@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidModule2Lesson8Task1AppMainScreen</string>
+    <string name="bt_river_rafting">River rafting</string>
+    <string name="bt_mashrooms">Mushroom hike</string>
+    <string name="bt_walk">Hiking trip</string>
+    <string name="bt_waterfall_hike">Hike to the waterfall</string>
+    <string name="bt_fishing">Fishing</string>
+    <string name="bt_mountains">Climbing to the top of the mountain</string>
+    <string name="bt_overnight_hike">Overnight hike</string>
+    <string name="bt_horse_ride">Horse ride</string>
+    <string name="tv_edelweiss_travel_agency">Edelweiss travel agency</string>
+    <string name="tv_order">Order a tour</string>
+    <string name="tv_contact">Contuct us</string>
+    <string name="tv_reviews">Reviews</string>
+
+</resources>

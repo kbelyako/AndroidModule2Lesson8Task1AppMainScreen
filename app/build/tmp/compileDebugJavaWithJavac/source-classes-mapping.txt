@@ -1,0 +1,2 @@
+com/example/androidmodule2lesson8task1appmainscreen/BuildConfig.java
+ com.example.androidmodule2lesson8task1appmainscreen.BuildConfig
